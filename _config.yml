@@ -1,11 +1,12 @@
-title: Zihao(Klay) Lin # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+title: Zihao (Klay) Lin # your name (or website title) here
+logo: "/images/pic.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  M.S. Business Analytics@ <a href="https://merage.uci.edu/programs/masters/master-science-business-analytics/index.html">University of California, Irvine</a> |
+  B.S. Management Information@<a href="https://www.rit.edu/business/management-information-systems-bjtu">Rochester Institute of Technology</a> |
   <br><br>
-  Second description 
+  A human with love ❤️ Sports Enthusiast 🏀 Sunshine ☀️ Beaches & Sea 🏖️
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/klay-lin-/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
