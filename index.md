@@ -13,6 +13,7 @@
 <img src="images/1.4.png?raw=true"/>
 <img src="images/1.5.png?raw=true"/>
 <img src="images/1.6.png?raw=true"/>
+<img src="images/1.7.png?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
