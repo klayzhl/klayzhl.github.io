@@ -8,7 +8,11 @@
 <img src="images/1.1.png?raw=true"/>
 ##### - Name the segments by several dimensions and provide strategical business development plan.
 ---
-<img src="images/1.2.png?raw=true"/><img src="images/1.3.png?raw=true"/>
+<img src="images/1.2.png?raw=true"/>
+<img src="images/1.3.png?raw=true"/>
+<img src="images/1.4.png?raw=true"/>
+<img src="images/1.5.png?raw=true"/>
+<img src="images/1.6.png?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
