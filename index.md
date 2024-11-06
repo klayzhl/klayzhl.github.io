@@ -6,10 +6,9 @@
 
 ##### - Determine the amount of clusters (segments) by the elbow method.
 <img src="images/1.1.png?raw=true"/>
-
+##### - Name the segments by several dimensions and provide strategical business development plan.
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/1.2.png?raw=true"/><img src="images/1.3.png?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
