@@ -12,11 +12,19 @@
   }
 </style>
 
+## Table of Contents
+
+- [Sun Country Airlines Customer Segmentation Using Clustering](#sun-country-airlines-customer-segmentation)
+- [Another Project Title](#another-project)
+- [Yet Another Project Title](#yet-another-project)
+
+---
+
 ## Projects
 
 ---
 
-### Sun Country Airlines Customer Segmentation Using Clustering
+### <a id="sun-country-airlines-customer-segmentation"></a>Sun Country Airlines Customer Segmentation Using Clustering
 
 ##### - Determine the amount of clusters (segments) by the elbow method.
 <div class="image-row">
