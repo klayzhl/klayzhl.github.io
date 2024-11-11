@@ -1,16 +1,24 @@
 title: Zihao (Klay) Lin # your name (or website title) here
 logo: "/images/pic.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  M.S. Business Analytics 
+  M.S. Business Analytics <br>
   @ <a href="https://merage.uci.edu/programs/masters/master-science-business-analytics/index.html">University of California, Irvine</a> |
+  <br><br>
   B.S. Management Information Systems @<a href="https://www.rit.edu/business/management-information-systems-bjtu">Rochester Institute of Technology</a> |
   <br><br>
   A human with love ❤️
+  <br><br>
   DubNation💙💛 Sports Enthusiast 🏀 Sunshine ☀️ Beach & Sea 🏖️
   <br><br>
   <a href="https://www.linkedin.com/in/klay-lin-/">View My LinkedIn Profile</a> 
   
-remote_theme: pages-themes/minimal@v0.2.0
+# Theme and Plugins
+remote_theme: "pages-themes/minimal@v0.2.0" # GitHub Pages Minimal theme
 plugins:
-- jekyll-remote-theme
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+  - jekyll-remote-theme # Enables use of remote themes
+  - jekyll-seo-tag      # Optional: Improves SEO (search engine optimization)
+  - jekyll-sitemap      # Optional: Generates a sitemap for search engines
+  - jekyll-feed         # Optional: Adds an RSS feed to your site
+
+# Google Analytics
+google_analytics: "UA-000000-0" # Replace with your actual tracking ID
