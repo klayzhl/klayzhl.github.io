@@ -29,15 +29,15 @@
 
 ---
 - [YouTube Trending Video Analysis](#YouTube-Trending-Video-Analysis)
-- [Sun Country Airlines Customer Segmentation Using Clustering](#sun-country-airlines-customer-segmentation)
+- [Airlines Customer Segmentation](#sun-country-airlines-customer-segmentation)
 - [Airline passengers Satisfaction Prediction](#Airline-passengers-Satisfaction-Prediction)
-- [Restaurant Database Management Application](#Restaurant-Database-Management-Application)
-- [Pizza Ordering Systems](#Pizza-Ordering-Systems)
+- [Restaurant Database Management Application - Updating](#Restaurant-Database-Management-Application)
+- [Pizza Ordering Systems - Updating](#Pizza-Ordering-Systems)
 
 ---
 ### <a id="YouTube-Trending-Video-Analysis"></a>YouTube Trending Video Analysis
 ---
-##### -Through Data Cleaning and Data Preprocessing on a robust dataset (233,904 observations) of 200 daily trending videos, meticulously updated every 15 minutes, spanning from August 2020 to October 2023, visulized the trending relationship with different attributes.
+##### - Through Data Cleaning and Data Preprocessing on a robust dataset (233,904 observations) of 200 daily trending videos, meticulously updated every 15 minutes, spanning from August 2020 to October 2023, visulized the trending relationships with different attributes.
 <div class="image-row four-per-row">
   <img src="images/2.1.png?raw=true" class="project-image"/>
   <img src="images/2.8.png?raw=true" class="project-image"/>
@@ -56,7 +56,7 @@
 </div>
 ### [Back to Top](#Back-to-Top)
 ---
-### <a id="sun-country-airlines-customer-segmentation"></a>Sun Country Airlines Customer Segmentation Using Clustering
+### <a id="sun-country-airlines-customer-segmentation"></a>Airlines Customer Segmentation
 ---
 ##### - Determined the amount of clusters (segments) by the elbow method.
 <div class="image-row four-per-row">
@@ -114,26 +114,29 @@
 ---
 ### <a id="Airline-passengers-Satisfaction-Prediction"></a>Airline passengers Satisfaction Prediction
 ---
-##### Through Data Cleaning and Data Preprocessing on a robust dataset (233,904 observations) of 200 daily trending videos, meticulously updated every 15 minutes, spanning from August 2020 to October 2023, visulized the trending relationship with different attributes.
-<div class="image-row four-per-row">
+##### - Through Data Cleaning and Data Preprocessing on a robust dataset (233,904 observations) of 200 daily trending videos, meticulously updated every 15 minutes, spanning from August 2020 to October 2023, visulized the trending relationship with different attributes.
+<div class="image-row two-per-row">
   <img src="images/3.1.png?raw=true" class="project-image"/>
   <img src="images/3.2.png?raw=true" class="project-image"/>
+</div>
+<div class="image-row three-per-row">
   <img src="images/3.3.png?raw=true" class="project-image"/>
   <img src="images/3.4.png?raw=true" class="project-image"/>
-</div>
-<div class="image-row four-per-row">
   <img src="images/3.5.png?raw=true" class="project-image"/>
+</div>
+<div class="image-row three-per-row">
   <img src="images/3.6.png?raw=true" class="project-image"/>
   <img src="images/3.7.png?raw=true" class="project-image"/>
   <img src="images/3.8.png?raw=true" class="project-image"/>
 </div>
-<div class="image-row four-per-row">
+<div class="image-row two-per-row">
 <img src="images/3.9.png?raw=true" class="project-image"/>
   <img src="images/3.10.png?raw=true" class="project-image"/>
 </div>
+##### - 
 <div class="image-row two-per-row">
-  <img src="images/3.11.png?raw=true" class="project-image"/>
-  <img src="images/3.12.png?raw=true" class="project-image"/>
+  <img src="images/3.11.jpg?raw=true" class="project-image"/>
+  <img src="images/3.12.jpg?raw=true" class="project-image"/>
 </div>
 ### [Back to Top](#Back-to-Top)
 
