@@ -114,26 +114,27 @@
 ---
 ### <a id="Airline-passengers-Satisfaction-Prediction"></a>Airline passengers Satisfaction Prediction
 ---
-##### - Through Data Cleaning and Data Preprocessing on a robust dataset (233,904 observations) of 200 daily trending videos, meticulously updated every 15 minutes, spanning from August 2020 to October 2023, visulized the trending relationship with different attributes.
+##### - Through Data Cleaning and Data Preprocessing(Encoding, Correlation Analysis, Missing Values and Outliers, Variable Standardization)on a dataset of 129,880 observations, segmented it into two distinct CSV files of training and testing sets for modeling.
 <div class="image-row two-per-row">
   <img src="images/3.1.png?raw=true" class="project-image"/>
   <img src="images/3.2.png?raw=true" class="project-image"/>
 </div>
+
+##### - Decision Tree
 <div class="image-row three-per-row">
   <img src="images/3.3.png?raw=true" class="project-image"/>
   <img src="images/3.4.png?raw=true" class="project-image"/>
   <img src="images/3.5.png?raw=true" class="project-image"/>
 </div>
+
+##### - K-Nearest Neighbors (KNN)
 <div class="image-row three-per-row">
   <img src="images/3.6.png?raw=true" class="project-image"/>
   <img src="images/3.7.png?raw=true" class="project-image"/>
   <img src="images/3.8.png?raw=true" class="project-image"/>
 </div>
-<div class="image-row two-per-row">
-<img src="images/3.9.png?raw=true" class="project-image"/>
-  <img src="images/3.10.png?raw=true" class="project-image"/>
-</div>
-##### - 
+
+##### - The comparison on reviews between international airlines and domestic airline showed, international ones contain more positive word comments than domestic ones. 
 <div class="image-row two-per-row">
   <img src="images/3.11.jpg?raw=true" class="project-image"/>
   <img src="images/3.12.jpg?raw=true" class="project-image"/>
