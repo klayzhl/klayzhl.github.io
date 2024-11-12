@@ -12,15 +12,14 @@
   }
 </style>
 
-## Table of Contents
 
-- [Sun Country Airlines Customer Segmentation Using Clustering](#sun-country-airlines-customer-segmentation)
-- [Another Project Title](#another-project)
-- [Yet Another Project Title](#yet-another-project)
+## Projects
 
 ---
 
-## Projects
+- [Sun Country Airlines Customer Segmentation Using Clustering](#sun-country-airlines-customer-segmentation)
+- [Airline passengers Satisfaction Prediction ](#another-project)
+- [YouTube Trending Video Analysis](#yet-another-project)
 
 ---
 
@@ -31,7 +30,14 @@
   <img src="images/1.1.png?raw=true" class="project-image"/>
 </div>
 
-##### - Name the segments by several dimensions and provide strategical business development plan.
+##### - Name each group based on the characteristics of segments.
+Generating Descriptive Titles for the Segments:
+Cluster0:  Business Travelers From Major Cities to Minneapolis
+Cluster1: Loyalty Elderly Traveler Group 
+Cluster2: Group traveler From MSP to Warm Resorts Destinations
+Cluster3: Solo Travelers from Major Cities to MSP
+Cluster4: Tourist Group/ Family Travel
+
 ---
 <div class="image-row">
   <img src="images/1.2.png?raw=true" class="project-image"/>
