@@ -31,12 +31,12 @@
 </div>
 
 ##### - Name each group based on the characteristics of segments.
-Generating Descriptive Titles for the Segments:
-Cluster0:  Business Travelers From Major Cities to Minneapolis
-Cluster1: Loyalty Elderly Traveler Group 
-Cluster2: Group traveler From MSP to Warm Resorts Destinations
-Cluster3: Solo Travelers from Major Cities to MSP
-Cluster4: Tourist Group/ Family Travel
+######   Generating Descriptive Titles for the Segments:
+###### -- Cluster0:  Business Travelers From Major Cities to Minneapolis
+###### -- Cluster1: Loyalty Elderly Traveler Group 
+###### -- Cluster2: Group traveler From MSP to Warm Resorts Destinations
+###### -- Cluster3: Solo Travelers from Major Cities to MSP
+###### -- Cluster4: Tourist Group/ Family Travel
 
 ---
 <div class="image-row">
