@@ -42,12 +42,14 @@
 <div class="image-row">
   <img src="images/1.2.png?raw=true" class="project-image"/>
   <img src="images/1.3.png?raw=true" class="project-image"/>
-</div>
-<div class="image-row">
   <img src="images/1.4.png?raw=true" class="project-image"/>
-  <img src="images/1.5.png?raw=true" class="project-image"/>
 </div>
 <div class="image-row">
+  
+  
+</div>
+<div class="image-row">
+  <img src="images/1.5.png?raw=true" class="project-image"/>
   <img src="images/1.6.png?raw=true" class="project-image"/>
   <img src="images/1.7.png?raw=true" class="project-image"/>
 </div>
