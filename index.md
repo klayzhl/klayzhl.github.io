@@ -5,10 +5,10 @@
     gap: 10px; /* Adds space between images */
   }
   .project-image {
-    flex: 1 1 48%; /* Each image takes about half the row */
-    max-width: 48%; /* Prevents images from exceeding half the row */
-    height: auto;
-    object-fit: cover;
+    flex: 1 1 30%; /* Each image takes up about one-third of the row */
+    max-width: 30%; /* Prevents images from exceeding one-third of the row */
+    height: 200px; /* Fixed height for consistency */
+    object-fit: cover; /* Crop to fit without distortion */
   }
 </style>
 
