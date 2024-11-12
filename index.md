@@ -30,7 +30,9 @@
 ---
 - [YouTube Trending Video Analysis](#YouTube-Trending-Video-Analysis)
 - [Sun Country Airlines Customer Segmentation Using Clustering](#sun-country-airlines-customer-segmentation)
-- [Airline passengers Satisfaction Prediction ](#Airline-passengers-Satisfaction-Prediction)
+- [Airline passengers Satisfaction Prediction](#Airline-passengers-Satisfaction-Prediction)
+- [Restaurant Database Management Application](#Restaurant-Database-Management-Application)
+- [Pizza Ordering Systems](#Pizza-Ordering-Systems)
 
 ---
 ### <a id="YouTube-Trending-Video-Analysis"></a>YouTube Trending Video Analysis
