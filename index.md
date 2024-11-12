@@ -7,20 +7,20 @@
   .two-per-row .project-image {
     flex: 1 1 48%; /* Each image takes up about one-third of the row */
     max-width: 48%;
-    height: 200px; /* Fixed height for consistency */
-    object-fit: cover;
+    height: auto; /* Fixed height for consistency */
+    object-fit: contain;
   }
   .three-per-row .project-image {
     flex: 1 1 30%; /* Each image takes up about one-third of the row */
     max-width: 30%;
-    height: 200px; /* Fixed height for consistency */
-    object-fit: cover;
+    height: auto; /* Fixed height for consistency */
+    object-fit: contain;
   }
   .four-per-row .project-image {
     flex: 1 1 22%; /* Each image takes up about one-fourth of the row */
     max-width: 22%;
-    height: 200px;
-    object-fit: cover;
+    height: auto;
+    object-fit: contain;
   }
 </style>
 
