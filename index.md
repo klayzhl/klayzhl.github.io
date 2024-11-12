@@ -19,7 +19,7 @@
 
 - [Sun Country Airlines Customer Segmentation Using Clustering](#sun-country-airlines-customer-segmentation)
 - [Airline passengers Satisfaction Prediction ](#another-project)
-- [YouTube Trending Video Analysis](#yet-another-project)
+- [YouTube Trending Video Analysis](#YouTube Trending Video Analysis)
 
 ---
 
@@ -58,3 +58,5 @@
 
 
 ---
+
+<a id="YouTube Trending Video Analysis"></a>YouTube Trending Video Analysis
