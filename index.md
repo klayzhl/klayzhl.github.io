@@ -28,18 +28,37 @@
 ## <a id="Back-to-Top"></a>Projects
 
 ---
-
+- [YouTube Trending Video Analysis](#YouTube-Trending-Video-Analysis)
 - [Sun Country Airlines Customer Segmentation Using Clustering](#sun-country-airlines-customer-segmentation)
 - [Airline passengers Satisfaction Prediction ](#another-project)
-- [YouTube Trending Video Analysis](#YouTube-Trending-Video-Analysis)
 
 ---
-
+### <a id="YouTube-Trending-Video-Analysis"></a>YouTube Trending Video Analysis
+---
+##### Through Data Cleaning and Data Preprocessing on a robust dataset (233,904 observations) of 200 daily trending videos, meticulously updated every 15 minutes, spanning from August 2020 to October 2023, visulized the trending relationship with different attributes.
+<div class="image-row four-per-row">
+  <img src="images/2.1.png?raw=true" class="project-image"/>
+  <img src="images/2.8.png?raw=true" class="project-image"/>
+  <img src="images/2.5.png?raw=true" class="project-image"/>
+  <img src="images/2.6.png?raw=true" class="project-image"/>
+</div>
+<div class="image-row four-per-row">
+  <img src="images/2.3.png?raw=true" class="project-image"/>
+</div>
+<div class="image-row four-per-row">
+<img src="images/2.4.png?raw=true" class="project-image"/>
+</div>
+<div class="image-row two-per-row">
+  <img src="images/2.2.png?raw=true" class="project-image"/>
+  <img src="images/2.7.png?raw=true" class="project-image"/>
+</div>
+### [Back to Top](#Back-to-Top)
+---
 ### <a id="sun-country-airlines-customer-segmentation"></a>Sun Country Airlines Customer Segmentation Using Clustering
 
 ##### - Determined the amount of clusters (segments) by the elbow method.
 <div class="image-row four-per-row">
-  <img src="images/1.1.png?raw=true" class="four-per-row .project-image"/>
+  <img src="images/1.1.png?raw=true" class="project-image"/>
 </div>
 
 ##### - Through Clustering adn Exploratory Data Analysis(EDA) on the dataset of 26,495 observations, named each group based on the characteristics of segments, and provide potential advice on tailored benefits and personalized experiences by groups.
@@ -89,7 +108,7 @@
   <img src="images/c4.4.png?raw=true" class="project-image"/>
 </div>
 
-- [Back to Top](#Back-to-Top)
+### [Back to Top](#Back-to-Top)
 ---
 
 
@@ -100,23 +119,3 @@
 
 ---
 
-### <a id="YouTube-Trending-Video-Analysis"></a>YouTube Trending Video Analysis
----
-<div class="image-row">
-  <img src="images/2.1.png?raw=true" class="project-image"/>
-  <img src="images/2.2.png?raw=true" class="project-image"/>
-</div>
-<div class="image-row">
-  <img src="images/2.3.png?raw=true" class="project-image"/>
-</div>
-<div class="image-row">
-<img src="images/2.4.png?raw=true" class="project-image"/>
-</div>
-<div class="image-row">
-  <img src="images/2.5.png?raw=true" class="project-image"/>
-  <img src="images/2.6.png?raw=true" class="project-image"/>
-</div>
-<div class="image-row">
-  <img src="images/2.7.png?raw=true" class="project-image"/>
-  <img src="images/2.8.png?raw=true" class="project-image"/>
-</div>
