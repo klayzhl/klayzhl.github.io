@@ -30,7 +30,7 @@
   <img src="images/1.1.png?raw=true" class="project-image"/>
 </div>
 
-##### - Through Exploratory Data Analysis(EDA) on the dataset of 26,495 observations, named each group based on the characteristics of segments, and provide potential advice on tailored benefits and personalized experiences by groups.
+##### - Through Clustering adn Exploratory Data Analysis(EDA) on the dataset of 26,495 observations, named each group based on the characteristics of segments, and provide potential advice on tailored benefits and personalized experiences by groups.
 ######   Generated Descriptive Titles for the Segments:
 ###### -- Cluster0:  Business Travelers From Major Cities to Minneapolis
 ###### -- Cluster1: Loyalty Elderly Traveler Group 
@@ -59,4 +59,23 @@
 
 ---
 
-<a id="YouTube Trending Video Analysis"></a>YouTube Trending Video Analysis
+### <a id="YouTube Trending Video Analysis"></a>YouTube Trending Video Analysis
+---
+<div class="image-row">
+  <img src="images/2.1.png?raw=true" class="project-image"/>
+  <img src="images/2.2.png?raw=true" class="project-image"/>
+</div>
+<div class="image-row">
+  <img src="images/2.3.png?raw=true" class="project-image"/>
+</div>
+<div class="image-row">
+<img src="images/2.4.png?raw=true" class="project-image"/>
+</div>
+<div class="image-row">
+  <img src="images/2.5.png?raw=true" class="project-image"/>
+  <img src="images/2.6.png?raw=true" class="project-image"/>
+</div>
+<div class="image-row">
+  <img src="images/2.7.png?raw=true" class="project-image"/>
+  <img src="images/2.8.png?raw=true" class="project-image"/>
+</div>
