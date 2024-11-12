@@ -4,11 +4,23 @@
     flex-wrap: wrap;
     gap: 10px; /* Adds space between images */
   }
-  .project-image {
-    flex: 1 1 30%; /* Each image takes up about one-third of the row */
-    max-width: 30%; /* Prevents images from exceeding one-third of the row */
+  .two-per-row .project-image {
+    flex: 1 1 48%; /* Each image takes up about one-third of the row */
+    max-width: 48%;
     height: 200px; /* Fixed height for consistency */
-    object-fit: cover; /* Crop to fit without distortion */
+    object-fit: cover;
+  }
+  .three-per-row .project-image {
+    flex: 1 1 30%; /* Each image takes up about one-third of the row */
+    max-width: 30%;
+    height: 200px; /* Fixed height for consistency */
+    object-fit: cover;
+  }
+  .four-per-row .project-image {
+    flex: 1 1 22%; /* Each image takes up about one-fourth of the row */
+    max-width: 22%;
+    height: 200px;
+    object-fit: cover;
   }
 </style>
 
@@ -27,10 +39,20 @@
 
 ##### - Determined the amount of clusters (segments) by the elbow method.
 <div class="image-row">
-  <img src="images/1.1.png?raw=true" class="project-image"/>
+  <img src="images/1.1.png?raw=true" class="four-per-row .project-image"/>
 </div>
 
 ##### - Through Clustering adn Exploratory Data Analysis(EDA) on the dataset of 26,495 observations, named each group based on the characteristics of segments, and provide potential advice on tailored benefits and personalized experiences by groups.
+<div class="image-row">
+  <img src="images/1.2.png?raw=true" class="three-per-row .project-image"/>
+  <img src="images/1.3.png?raw=true" class="three-per-row .project-image"/>
+  <img src="images/1.4.png?raw=true" class="three-per-row .project-image"/>
+</div>
+<div class="image-row">
+  <img src="images/1.5.png?raw=true" class="three-per-row .project-image"/>
+  <img src="images/1.6.png?raw=true" class="three-per-row .project-image"/>
+  <img src="images/1.7.png?raw=true" class="three-per-row .project-image"/>
+</div>
 ######   Generated Descriptive Titles for the Segments:
 ###### -- Cluster0:  Business Travelers From Major Cities to Minneapolis
 ###### -- Cluster1: Loyalty Elderly Traveler Group 
@@ -39,20 +61,7 @@
 ###### -- Cluster4: Tourist Group/ Family Travel
 
 ---
-<div class="image-row">
-  <img src="images/1.2.png?raw=true" class="project-image"/>
-  <img src="images/1.3.png?raw=true" class="project-image"/>
-  <img src="images/1.4.png?raw=true" class="project-image"/>
-</div>
-<div class="image-row">
-  
-  
-</div>
-<div class="image-row">
-  <img src="images/1.5.png?raw=true" class="project-image"/>
-  <img src="images/1.6.png?raw=true" class="project-image"/>
-  <img src="images/1.7.png?raw=true" class="project-image"/>
-</div>
+
 
 ---
 
