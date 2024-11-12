@@ -33,7 +33,7 @@
 - [Airline passengers Satisfaction Prediction](#Airline-passengers-Satisfaction-Prediction)
 - [Restaurant Database Management Application - Updating](#Restaurant-Database-Management-Application)
 - [Pizza Ordering System - Updating](#Pizza-Ordering-System)
-- [Event Schedule Management System - Updating]
+- [Event Schedule Management System - Updating](#Event-Schedule-Management-System)
 
 ---
 ### <a id="YouTube-Trending-Video-Analysis"></a>YouTube Trending Video Analysis
