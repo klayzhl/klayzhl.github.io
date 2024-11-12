@@ -25,7 +25,7 @@
 </style>
 
 
-## Projects
+## <a id="Back-to-Top"></a>Projects
 
 ---
 
@@ -38,28 +38,58 @@
 ### <a id="sun-country-airlines-customer-segmentation"></a>Sun Country Airlines Customer Segmentation Using Clustering
 
 ##### - Determined the amount of clusters (segments) by the elbow method.
-<div class="image-row">
+<div class="image-row four-per-row">
   <img src="images/1.1.png?raw=true" class="four-per-row .project-image"/>
 </div>
 
 ##### - Through Clustering adn Exploratory Data Analysis(EDA) on the dataset of 26,495 observations, named each group based on the characteristics of segments, and provide potential advice on tailored benefits and personalized experiences by groups.
-<div class="image-row">
-  <img src="images/1.2.png?raw=true" class="three-per-row .project-image"/>
-  <img src="images/1.3.png?raw=true" class="three-per-row .project-image"/>
-  <img src="images/1.4.png?raw=true" class="three-per-row .project-image"/>
+<div class="image-row three-per-row">
+  <img src="images/1.2.png?raw=true" class="project-image"/>
+  <img src="images/1.3.png?raw=true" class="project-image"/>
+  <img src="images/1.4.png?raw=true" class="project-image"/>
 </div>
-<div class="image-row">
-  <img src="images/1.5.png?raw=true" class="three-per-row .project-image"/>
-  <img src="images/1.6.png?raw=true" class="three-per-row .project-image"/>
-  <img src="images/1.7.png?raw=true" class="three-per-row .project-image"/>
+<div class="image-row three-per-row">
+  <img src="images/1.5.png?raw=true" class="project-image"/>
+  <img src="images/1.6.png?raw=true" class="project-image"/>
+  <img src="images/1.7.png?raw=true" class="project-image"/>
 </div>
 ######   Generated Descriptive Titles for the Segments:
 ###### -- Cluster0:  Business Travelers From Major Cities to Minneapolis
+<div class="image-row three-per-row">
+  <img src="images/c0.1.png?raw=true" class="project-image"/>
+  <img src="images/c0.2.png?raw=true" class="project-image"/>
+  <img src="images/c0.3.png?raw=true" class="project-image"/>
+</div>
 ###### -- Cluster1: Loyalty Elderly Traveler Group 
+<div class="image-row four-per-row">
+  <img src="images/c1.1.png?raw=true" class="project-image"/>
+  <img src="images/c1.2.png?raw=true" class="project-image"/>
+  <img src="images/c1.3.png?raw=true" class="project-image"/>
+  <img src="images/c1.4.png?raw=true" class="project-image"/>
+</div>
 ###### -- Cluster2: Group traveler From MSP to Warm Resorts Destinations
+<div class="image-row four-per-row">
+  <img src="images/c2.1.png?raw=true" class="project-image"/>
+  <img src="images/c2.2.png?raw=true" class="project-image"/>
+  <img src="images/c2.3.png?raw=true" class="project-image"/>
+  <img src="images/c2.4.png?raw=true" class="project-image"/>
+</div>
 ###### -- Cluster3: Solo Travelers from Major Cities to MSP
+<div class="image-row four-per-row">
+  <img src="images/c3.1.png?raw=true" class="project-image"/>
+  <img src="images/c3.2.png?raw=true" class="project-image"/>
+  <img src="images/c3.3.png?raw=true" class="project-image"/>
+  <img src="images/c3.4.png?raw=true" class="project-image"/>
+</div>
 ###### -- Cluster4: Tourist Group/ Family Travel
+<div class="image-row four-per-row">
+  <img src="images/c4.1.png?raw=true" class="project-image"/>
+  <img src="images/c4.2.png?raw=true" class="project-image"/>
+  <img src="images/c4.3.png?raw=true" class="project-image"/>
+  <img src="images/c4.4.png?raw=true" class="project-image"/>
+</div>
 
+- [Back to Top](#Back-to-Top)
 ---
 
 
