@@ -25,13 +25,13 @@
 
 ### <a id="sun-country-airlines-customer-segmentation"></a>Sun Country Airlines Customer Segmentation Using Clustering
 
-##### - Determine the amount of clusters (segments) by the elbow method.
+##### - Determined the amount of clusters (segments) by the elbow method.
 <div class="image-row">
   <img src="images/1.1.png?raw=true" class="project-image"/>
 </div>
 
-##### - Name each group based on the characteristics of segments.
-######   Generating Descriptive Titles for the Segments:
+##### - Through Exploratory Data Analysis(EDA) on the dataset of 26,495 observations, named each group based on the characteristics of segments, and provide potential advice on tailored benefits and personalized experiences by groups.
+######   Generated Descriptive Titles for the Segments:
 ###### -- Cluster0:  Business Travelers From Major Cities to Minneapolis
 ###### -- Cluster1: Loyalty Elderly Traveler Group 
 ###### -- Cluster2: Group traveler From MSP to Warm Resorts Destinations
